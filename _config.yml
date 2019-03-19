@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Lisbeth",
+        href: "http://lisbeth0720.github.io"
     },{
         title: "简书",
         href: "https://www.jianshu.com/u/6ae0befc341f"
