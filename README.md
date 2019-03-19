@@ -48,12 +48,12 @@
 
 ```
 # Site settings
-title: lisbeth Blog                    # 你的博客网站标题
-SEOTitle: 沐雪的博客 | Lisbeth	# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+title: Lisbeth Blog                    # 你的博客网站标题
+SEOTitle: 沐雪的博客 	       # SEO 标题
+description: "你好，世界"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: lisbeth     # 你的github账号
+github_username: lisbeth0720     # 你的github账号
 jianshu_username: 6ae0befc341f  # 你的简书ID。
 
 # Build settings
@@ -71,7 +71,7 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      hello world？
+title:      hello world
 subtitle:   hello world
 date:       2019-03-19
 author:     lisbeth
@@ -122,7 +122,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 ### Social-media Account
 
-在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
+在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/6ae0befc341f>
 
 	# SNS settings
 	RSS: false
