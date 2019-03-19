@@ -1,16 +1,16 @@
 
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://raw.githubusercontent.com/lisbeth0720/lisbeth0720.github.io/master/img/readme-home.png)
 
-[![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
+[![Build Status](https://travis-ci.org/lisbeth0720/lisbeth0720.github.io.svg?branch=master)](https://travis-ci.org/lisbeth0720/lisbeth0720.github.io)
+[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-lisbeth0720-lisbeth0720-github-io-master)
+[![GitHub issues](https://img.shields.io/github/issues/lisbeth0720/lisbeth0720.github.io.svg?style=flat)](https://github.com/lisbeth0720/lisbeth0720.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
+[![](https://img.shields.io/github/stars/lisbeth0720/lisbeth0720.github.io.svg?style=social&label=Star)](https://github.com/lisbeth0720/lisbeth0720.github.io)
+[![](https://img.shields.io/github/forks/lisbeth0720/lisbeth0720.github.io.svg?style=social&label=Fork)](https://github.com/lisbeth0720/lisbeth0720.github.io)
 
 
-### [查看博客戳这里 👆](http://lisbeth0720.github.io)
+### [查看博客戳这里 ](http://lisbeth0720.github.io)
 
 
 
@@ -71,10 +71,10 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
+title:      hello world？
+subtitle:   hello world
+date:       2019-03-19
+author:     lisbeth
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
@@ -87,7 +87,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/lisbeth0720/lisbeth0720.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/lisbeth0720/lisbeth0720.github.io/master/img/readme-side.jpg)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
