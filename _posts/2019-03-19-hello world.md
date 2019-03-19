@@ -4,13 +4,13 @@ title:      Hello world
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2019-03-19
 author:     lisbeth
-header-img: img/post-bg-2015.jpg
+header-img: img/post-bg-hello.jpg
 catalog: true
 tags:
     - 生活
 ---
 
-> “🙉🙉🙉 ”
+> “Hello !”
 
 
 ## 前言
@@ -23,9 +23,9 @@ tags:
 
 2019 年，我的 Blog 总算是搭建好了。
 
-最开始写博客是在[简书](www.jianshu.com)这个平台上，简书确实不错，支持markdown在线编辑。
 
-在一次偶然间，听到我的好基友 **恩恩** 想搭建个人主页，觉得作为一个程序员，是应该倒腾倒腾自己的Blog，于是乎就开始了撸起袖子干了。
+
+一直想搭建一个个人博客，由于种种原因一直没有弄。我觉得作为一名程序媛，怎么能能没有一个自己的博客呢？在一次偶然间发现github pages 搭建个人博客比较简单，于是就开始倒腾倒腾自己的Blog，于是乎就开始了撸起袖子干了。
 
 <p id = "build"></p>
 ---
