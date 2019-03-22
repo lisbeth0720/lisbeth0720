@@ -4,7 +4,7 @@ title:      走进JS
 subtitle:    "JS"
 date:       2019-03-22
 author:     lisbeth
-header-img: img/redme-home.jpg
+header-img: img/readme-home.jpg
 catalog: true
 tags:
     - 学习
@@ -21,6 +21,7 @@ CSS ：专门美化网页内容的语言。
 JS  :专门用来编写交互程序的语言。
 
 ![JS特点](https://github.com/lisbeth0720/lisbeth0720.github.io/blob/master/img/js.png)
+
 
 二：如何使用JS：
 如何运行：2种
@@ -123,12 +124,18 @@ JS中数据类型：2大类
 （3）运算时，JS会根据需要，动态转换数据的类型
 2大类：
    隐式转换：
+   
      无需程序员干预，JS自动完成的类型转换
   仅讨论+运算中的隐式转换：
+  
 算数计算中，一切类型都隐式转换味numberl类型，再计算
+
  比如：”2”->2  true->1   false->0
+ 
 特例：+运算中只要有一方是字符串，两类型都转化为字符串类型，且+运算变为字符串拼接！
+
 表达式：有数据，变量和运算符组成的一个公式，每个表达式默认都从左向右，两两计算，每个表达式有且仅有一个运算结果。
+
   隐式转换，仅仅影响表达式的运算结果，不影响变量中存储的实际类型。 
 
 强制转换：程序员通过主动调用专门函数，执行转换。
