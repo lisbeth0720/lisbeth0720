@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 28fe96ebd4c3e438c7b0                      #生成的clientID
-  clientSecret: 94fac38c16bc231631a6fa9e33c6709128ba60b9    #生成的clientSecret
+  clientID: 81312bd43c7735f47192                     #生成的clientID
+  clientSecret: dd23f13f6ab8521b1cad1849213a9b2d71aaa0fc    #生成的clientSecret
   repo: lisbeth0720.github.io    #仓库名称
   owner: lisbeth0720    #github用户名
   admin: lisbeth0720
