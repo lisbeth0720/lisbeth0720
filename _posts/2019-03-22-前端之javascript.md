@@ -4,7 +4,7 @@ title:      走进JS
 subtitle:    "JS"
 date:       2019-03-22
 author:     lisbeth
-header-img: img/post-bg-hello.jpg
+header-img: img/redme-home.jpg
 catalog: true
 tags:
     - 学习
@@ -19,7 +19,9 @@ JS = ECMAScript + DOM标准 + BOM
 HTML:专门编写网页内容的语言。
 CSS ：专门美化网页内容的语言。
 JS  :专门用来编写交互程序的语言。
+
 ![JS特点](https://github.com/lisbeth0720/lisbeth0720.github.io/blob/master/img/js.png)
+
 二：如何使用JS：
 如何运行：2种
 1.浏览器内置JS引擎
@@ -95,13 +97,14 @@ How：const 常量名=值；
 What：内存中存储不同数据格式
 JS中数据类型：2大类
 1.原始类型：值保存再变量本地的数据类型。
+
    5种：（1）Number  专门保存数字的类型
           所有数字都占有8字节
            1GB=1024MB
              1KB=1024bytes
              1byte=8Bit
           
-        （2）String    专门保存字符串的类型
+        （2）String  专门保存字符串的类型
            内存： js的程序内存中的字符都是用unicode标示的。
              Unicode:对全球主要语言中的每个字符都编一个号。
              所占空间：每个字母，标点占1个字节
@@ -111,6 +114,7 @@ JS中数据类型：2大类
          (3）Boolean  专门保存真假二选一的类型
         （4）Undefined 只有一个值undefined
         （5）Null       表示不指向任何地址
+        
 2.引用类型：值不保存在变量本地的数据类型。
 九：数据类型的转换
   JS是弱类型编程语言：3方面
@@ -248,8 +252,6 @@ console.log(lp);   //剩下3
       1.循环条件：下标<arr.length
       2.循环变量：下标i,从0开始，每次增加1，到arr.length-1结束。
       3 循环体  ：xxx
-
-
 
 十一：
    API:应用程序编程的接口
