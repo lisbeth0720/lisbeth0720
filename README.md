@@ -49,7 +49,7 @@
 ```
 # Site settings
 title: Lisbeth Blog                    # 你的博客网站标题
-SEOTitle: 沐雪的博客 	       # SEO 标题
+SEOTitle: 沐雪的博客 	       # 标题
 description: "你好，世界"	   	   # 随便说点，描述一下
 
 # SNS settings      
@@ -75,11 +75,10 @@ title:      hello world
 subtitle:   hello world
 date:       2019-03-19
 author:     lisbeth
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-fj.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - 学习
 ---
 
 ```
